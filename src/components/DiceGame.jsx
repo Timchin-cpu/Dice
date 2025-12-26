@@ -55,7 +55,7 @@ const DiceGame = ({ balance, setBalance }) => {
       {/* Lucky Number Display */}
       <div className="text-center mb-8">
         <div className="inline-block glass-strong rounded-3xl p-12 shadow-2xl border-2 border-purple-500/30">
-          <div className="text-8xl font-black font-orbitron text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 mb-3 neon-text">
+          <div className="text-6xl font-black font-orbitron text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 mb-3 neon-text">
             {diceValue}.43x
           </div>
           <div className="text-base text-gray-400 uppercase tracking-widest">Lucky number</div>
