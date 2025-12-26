@@ -16,6 +16,9 @@ export default {
         'neon-blue': '#3b82f6',
         'neon-green': '#10b981',
       },
+      borderWidth: {
+        '3': '3px',
+      },
       animation: {
         'float': 'float 6s ease-in-out infinite',
         'spin-slow': 'spin 3s cubic-bezier(0.17, 0.67, 0.12, 0.99)',
